@@ -113,7 +113,7 @@ body {
          height: 10vw;
          width: auto;
       position: absolute;
-      left: 36%;
+      left: 36.2%;
       bottom: -4%;
       transition: 0.7s;
       
@@ -790,9 +790,13 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
         scale: 1.7;
          opacity: 1;
          filter: drop-shadow(5px 5px 10px black);
-
+  transition: 0.5s;
 
   }
+
+
+
+  
 
   .btn2:hover{
          cursor: pointer;
