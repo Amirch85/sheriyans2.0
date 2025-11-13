@@ -97,7 +97,7 @@ body {
 
 
 .rimage{
-      height: 50%;
+      height: 23.5vw;
       width: auto;
       position: absolute;
       left: 2%;
@@ -110,10 +110,10 @@ body {
 
 .center{
     z-index: 4;
-         height: 22%;
+         height: 10vw;
          width: auto;
       position: absolute;
-      left: 35%;
+      left: 36%;
       bottom: -4%;
       transition: 0.7s;
       
@@ -133,7 +133,7 @@ body {
 
 .leimage{
        width: auto;
-       height: 56%;
+     height: 26.5vw;
        position: absolute;
     right: 0%;
     bottom: 0%;
